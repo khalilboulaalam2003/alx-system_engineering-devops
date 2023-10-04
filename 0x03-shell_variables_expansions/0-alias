@@ -1,3 +1,5 @@
 #!/bin/bash
 alias ls='rm *'
+chmod +x 0-alias
+source ./0-alias
 
